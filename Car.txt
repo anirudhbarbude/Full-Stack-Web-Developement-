@@ -1,0 +1,31 @@
+Class Car
+{
+public void car () 
+
+{
+system.out.println("mercedes");
+}
+
+class Truck  {
+public void truck()
+
+{
+system.out.println("Tata");
+
+class auto extends Truck,Car{
+
+public void auto() 
+{
+
+system.out.println("piaggio");
+
+public class multiple {
+
+public static void main () {
+
+vehicle v=new vehicle();
+v.car();
+v.truck();
+}
+}
+
